@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/run-benchmark.js": {
+      "maxDuration": 300
+    },
+    "api/run-stage.js": {
+      "maxDuration": 60
+    }
+  }
+}
